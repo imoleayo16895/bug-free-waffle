@@ -89,7 +89,8 @@ About 1/3rd of the students possess blood type O, with the remaining blood types
 
 ---
 
-![](smoke_visual.png)
+![](smok.png)
+
 
 
 Most of the students are non-smokers, however about one-fifth of them are smokers. This is significant as this could impact on the overall health of the student population. Measures could be put in place to dissuade these students from engaging in smoking. This could include prohibiting smoking on the campus grounds and introducing these students to therapy.
