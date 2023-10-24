@@ -1,4 +1,4 @@
-# The Optimum Medical Student: A Comprehensive Analysis of the Biometric Data of Medical Students in the University of X in 2020 ⚕👨‍⚕️
+# The Optimal Medical Student: A Comprehensive Analysis of the Biometric Data of Medical Students in the University of X in 2020 ⚕👨‍⚕️
 *Data used in this analysis is entirely fictional*
 
 
